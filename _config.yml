@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://do-podcast.org
-title: Do
+url: http://do-podcast.github.io
+title: do
 subtitle: A podcast about Ruby and Rubyists
 author: James Harton
 simple_search: http://google.com/search
@@ -63,7 +63,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: do-podcast
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -73,12 +73,12 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 104323044464093018582
 googleplus_hidden: false
 
 # Pinboard
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
