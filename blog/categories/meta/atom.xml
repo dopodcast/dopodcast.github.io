@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meta | do]]></title>
-  <link href="http://dopodcast.org/blog/categories/meta/atom.xml" rel="self"/>
-  <link href="http://dopodcast.org/"/>
-  <updated>2013-10-02T10:32:12+13:00</updated>
-  <id>http://dopodcast.org/</id>
+  <link href="http://do-podcast.github.io/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://do-podcast.github.io/"/>
+  <updated>2013-10-02T17:46:00+13:00</updated>
+  <id>http://do-podcast.github.io/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
     
@@ -15,16 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[do: A podcast about Ruby and Rubyists]]></title>
-    <link href="http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/"/>
+    <link href="http://do-podcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/"/>
     <updated>2013-09-28T15:28:00+12:00</updated>
-    <id>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</id>
+    <id>http://do-podcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</id>
     <content type="html"><![CDATA[<p>&ldquo;do&rdquo; is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
 be a regular (at this stage, two-weekly) show, with a rotating panel of up to
 10 people.</p>
 
 <h2>Get involved.</h2>
 
-<p>The show schedule is managed in our <a href="https://github.com/dopodcast/dopodcast.github.io/issues">GitHub issues</a>,
+<p>The show schedule is managed in our <a href="https://github.com/do-podcast/do-podcast.github.io/issues">GitHub issues</a>,
 ideas for future shows can also be raised as issues for discussion, and may
 wind up being assigned to the schedule (issue milestones) for future recording.</p>
 
@@ -32,7 +32,7 @@ wind up being assigned to the schedule (issue milestones) for future recording.<
 
 <ul>
 <li><p>If you&rsquo;d like to be on a panel, add yourself to the panel list of
-an <a href="https://github.com/dopodcast/dopodcast.github.io/issues?labels=not+yet+recorded&amp;page=1&amp;state=open">upcoming show</a>.
+an <a href="https://github.com/do-podcast/do-podcast.github.io/issues?labels=not+yet+recorded&amp;page=1&amp;state=open">upcoming show</a>.
 <em>no more than 5 panelists, plus guest per show please!</em></p></li>
 <li><p>If you&rsquo;d like to be present at the recording of one of our episodes? Just
 <a href="https://plus.google.com/104323044464093018582">follow us on Google+</a> and

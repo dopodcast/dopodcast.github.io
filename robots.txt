@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dopodcast.org/sitemap.xml 
+Sitemap: http://do-podcast.github.io/sitemap.xml 
