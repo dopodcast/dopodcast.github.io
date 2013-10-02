@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[do]]></title>
-  <link href="http://do-podcast.github.io/atom.xml" rel="self"/>
-  <link href="http://do-podcast.github.io/"/>
-  <updated>2013-10-02T17:46:33+13:00</updated>
-  <id>http://do-podcast.github.io/</id>
+  <link href="http://dopodcast.github.io/atom.xml" rel="self"/>
+  <link href="http://dopodcast.github.io/"/>
+  <updated>2013-10-03T12:44:26+13:00</updated>
+  <id>http://dopodcast.github.io/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[do: A podcast about Ruby and Rubyists]]></title>
-    <link href="http://do-podcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/"/>
+    <link href="http://dopodcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/"/>
     <updated>2013-09-28T15:28:00+12:00</updated>
-    <id>http://do-podcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</id>
+    <id>http://dopodcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</id>
     <content type="html"><![CDATA[<p>&ldquo;do&rdquo; is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
 be a regular (at this stage, two-weekly) show, with a rotating panel of up to
 10 people.</p>
