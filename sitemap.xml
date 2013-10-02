@@ -1,25 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://dopodcast.github.io/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/
-        </loc>
+        <loc>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</loc>
         <lastmod>2013-09-28T15:28:36+12:00</lastmod>
     </url>
     <url>
-        <loc>http://dopodcast.github.io/about/</loc>
+        <loc>http://dopodcast.org/about/</loc>
         <lastmod>2013-10-02T17:46:23+13:00</lastmod>
     </url>
     <url>
-        <loc>http://dopodcast.github.io/blog/archives/</loc>
+        <loc>http://dopodcast.org/blog/archives/</loc>
         <lastmod>2013-09-28T15:28:36+12:00</lastmod>
     </url>
     <url>
-        <loc>http://dopodcast.github.io/</loc>
+        <loc>http://dopodcast.org/</loc>
         <lastmod>2013-09-28T17:09:17+12:00</lastmod>
     </url>
     <url>
-        <loc>http://dopodcast.github.io/robots.txt</loc>
+        <loc>http://dopodcast.org/robots.txt</loc>
         <lastmod>2013-09-25T14:58:52+12:00</lastmod>
     </url>
 </urlset>
