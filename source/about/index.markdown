@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About do
+title: "Do: A Podcast About Ruby and Rubyists"
 date: 2013-09-30 09:04
 comments: true
 sharing: true
