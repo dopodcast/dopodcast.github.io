@@ -45,7 +45,15 @@ module Jekyll
         maker.channel.author = site.config["author"]
         maker.channel.updated = site.posts.map { |p| p.date  }.max
         maker.channel.copyright = site.config['copyright']
-        maker.channel.itunes_image = "#{site.config['url']}#{site.config['site_image']}"
+        maker.channel.itunes_image = "#{site.config['url']}/images/#{site.config['image']}-itunes.jpg"
+        maker.channel.itunes_explicit = false
+        maker.channel.itunes_keywords= %q|ruby, rails, programmer, programming, technology, learn, code, coder, tools, computers|
+        maker.channel.new_itunes_category do |category|
+          category.text = 'Technology'
+        end
+        maker.channel.new_itunes_category do |category|
+          category.text = 'Software How-To'
+        end
 
         post_limit = (site.config['rss_post_limit'] - 1 rescue site.posts.count)
 
