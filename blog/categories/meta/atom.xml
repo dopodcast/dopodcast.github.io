@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[do]]></title>
-  <link href="http://dopodcast.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meta | do]]></title>
+  <link href="http://dopodcast.org/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
   <updated>2013-10-03T15:37:08+13:00</updated>
   <id>http://dopodcast.org/</id>
