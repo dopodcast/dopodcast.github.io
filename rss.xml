@@ -8,11 +8,14 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
+    <pubDate>Sat, 28 Sep 2013 00:00:00 +1200</pubDate>
     <item>
-      <title>do: A podcast about Ruby and Rubyists</title>
       <link>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</link>
-      <description>
+      <description>&lt;hr /&gt;
+&lt;p&gt;layout: post title: “do: A podcast about Ruby and Rubyists” date: 2013-09-28 15:28 comments: true&lt;/p&gt;
+
+&lt;h2 id=&quot;categories_meta&quot;&gt;categories: meta&lt;/h2&gt;
+
 &lt;p&gt;“do” is a podcast about Ruby, Rubyists and their culture. We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.&lt;/p&gt;
 
 &lt;h2 id=&quot;get_involved&quot;&gt;Get involved.&lt;/h2&gt;
@@ -35,12 +38,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR125LoyaltyAndLayoffs.mp3"
-        length="83017283"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
-      <dc:date>2013-09-28T15:28:00+12:00</dc:date>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +1200</pubDate>
+      <dc:date>2013-09-28T00:00:00+12:00</dc:date>
     </item>
-    <dc:date>2013-09-28T15:28:00+12:00</dc:date>
+    <dc:date>2013-09-28T00:00:00+12:00</dc:date>
+    <itunes:image href="http://dopodcast.org/images/ruby-latte-med.jpg"/>
   </channel>
 </rss>
