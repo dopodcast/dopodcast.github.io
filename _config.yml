@@ -4,10 +4,12 @@
 
 url: http://dopodcast.org
 title: do
+name: do
 subtitle: A podcast about Ruby and Rubyists
 author: James Harton
 simple_search: http://google.com/search
 description: do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.
+timezone: NZ
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
