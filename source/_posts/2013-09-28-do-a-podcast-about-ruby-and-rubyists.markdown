@@ -4,7 +4,7 @@ title: "do: A podcast about Ruby and Rubyists"
 date: 2013-09-28 15:28
 comments: true
 categories: meta
---
+---
 
 "do" is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
 be a regular (at this stage, two-weekly) show, with a rotating panel of up to
