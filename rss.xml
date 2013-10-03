@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <title>do</title>
-    <generator>Octopress</generator>
     <link>http://dopodcast.org</link>
-    
+    <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
+    <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
     <item>
       <title>do: A podcast about Ruby and Rubyists</title>
-      <description><![CDATA[<p>&ldquo;do&rdquo; is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
-be a regular (at this stage, two-weekly) show, with a rotating panel of up to
-10 people.</p>
-
-<h2>Get involved.</h2>
-
-<p>The show schedule is managed in our <a href="https://github.com/do-podcast/do-podcast.github.io/issues">GitHub issues</a>,
-ideas for future shows can also be raised as issues for discussion, and may
-wind up being assigned to the schedule (issue milestones) for future recording.</p>
-
-<p>Here&rsquo;s how you can get involved:</p>
-
-<ul>
-<li><p>If you&rsquo;d like to be on a panel, add yourself to the panel list of
-an <a href="https://github.com/do-podcast/do-podcast.github.io/issues?labels=not+yet+recorded&amp;page=1&amp;state=open">upcoming show</a>.
-<em>no more than 5 panelists, plus guest per show please!</em></p></li>
-<li><p>If you&rsquo;d like to be present at the recording of one of our episodes? Just
-<a href="https://plus.google.com/104323044464093018582">follow us on Google+</a> and
-we&rsquo;ll post events for our upcoming hangouts-on-air.</p></li>
-<li><p>Make show or interview suggestions by raising or commentint on our GitHub
-issues.</p></li>
-</ul>
-
-]]></description>
       <link>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</link>
-      <pubDate>2013-09-28T15:28:00+12:00</pubDate>
-      <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</guid>
+      <description>
+&lt;p&gt;“do” is a podcast about Ruby, Rubyists and their culture. We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.&lt;/p&gt;
+
+&lt;h2 id=&quot;get_involved&quot;&gt;Get involved.&lt;/h2&gt;
+
+&lt;p&gt;The show schedule is managed in our &lt;a href=&quot;https://github.com/do-podcast/do-podcast.github.io/issues&quot;&gt;GitHub issues&lt;/a&gt;, ideas for future shows can also be raised as issues for discussion, and may wind up being assigned to the schedule (issue milestones) for future recording.&lt;/p&gt;
+
+&lt;p&gt;Here’s how you can get involved:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you’d like to be on a panel, add yourself to the panel list of an &lt;a href=&quot;https://github.com/do-podcast/do-podcast.github.io/issues?labels=not+yet+recorded&amp;page=1&amp;state=open&quot;&gt;upcoming show&lt;/a&gt;. &lt;em&gt;no more than 5 panelists, plus guest per show please!&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;If you’d like to be present at the recording of one of our episodes? Just &lt;a href=&quot;https://plus.google.com/104323044464093018582&quot;&gt;follow us on Google+&lt;/a&gt; and we’ll post events for our upcoming hangouts-on-air.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Make show or interview suggestions by raising or commentint on our GitHub issues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR125LoyaltyAndLayoffs.mp3"
+        length="83017283"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
+      <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    
+    <dc:date>2013-09-28T15:28:00+12:00</dc:date>
   </channel>
 </rss>
