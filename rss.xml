@@ -42,6 +42,10 @@
       <dc:date>2013-09-28T00:00:00+12:00</dc:date>
     </item>
     <dc:date>2013-09-28T00:00:00+12:00</dc:date>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>ruby, rails, programmer, programming, technology, learn, code, coder, tools, computers</itunes:keywords>
   </channel>
 </rss>
