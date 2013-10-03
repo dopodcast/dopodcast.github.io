@@ -45,6 +45,7 @@ module Jekyll
         maker.channel.author = site.config["author"]
         maker.channel.updated = site.posts.map { |p| p.date  }.max
         maker.channel.copyright = site.config['copyright']
+        maker.channel.itunes_image = "#{site.config['url']}#{site.config['site_image']}"
 
         post_limit = (site.config['rss_post_limit'] - 1 rescue site.posts.count)
 
