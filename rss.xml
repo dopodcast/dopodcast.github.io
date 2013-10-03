@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[do]]></title>
-  <link href="http://dopodcast.org/atom.xml" rel="self"/>
-  <link href="http://dopodcast.org/"/>
-  <updated>2013-10-03T13:06:13+13:00</updated>
-  <id>http://dopodcast.org/</id>
-  <author>
-    <name><![CDATA[James Harton]]></name>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <title>do</title>
+    <generator>Octopress</generator>
+    <link>http://dopodcast.org</link>
     
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
-
-  
-  <entry>
-    <title type="html"><![CDATA[do: A podcast about Ruby and Rubyists]]></title>
-    <link href="http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/"/>
-    <updated>2013-09-28T15:28:00+12:00</updated>
-    <id>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</id>
-    <content type="html"><![CDATA[<p>&ldquo;do&rdquo; is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
+    <item>
+      <title>do: A podcast about Ruby and Rubyists</title>
+      <description><p>&ldquo;do&rdquo; is a podcast about Ruby, Rubyists and their culture.  We hope to grow to
 be a regular (at this stage, two-weekly) show, with a rotating panel of up to
 10 people.</p>
 
@@ -41,7 +31,11 @@ we&rsquo;ll post events for our upcoming hangouts-on-air.</p></li>
 issues.</p></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-</feed>
+</description>
+      <link>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</link>
+      <pubDate>2013-09-28T15:28:00+12:00</pubDate>
+      <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists</guid>
+    </item>
+    
+  </channel>
+</rss>
