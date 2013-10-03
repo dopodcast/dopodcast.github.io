@@ -1,0 +1,21 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <title>{{ site.title | xml_escape }}</title>
+    <generator>Octopress</generator>
+    <link>{{ site.url }}</link>
+    {% for post in site.posts limit: 20 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.content | expand_urls: site.url | cdata_escape }}</description>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <guid>{{ site.url }}{{ post.id }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
