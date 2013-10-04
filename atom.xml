@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-10-03T15:37:08+13:00</updated>
+  <updated>2013-10-04T16:44:22+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 1: Intro to "do"]]></title>
+    <link href="http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/"/>
+    <updated>2013-10-04T16:34:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do</id>
+    <content type="html"><![CDATA[<p>Who are these people? Why should I listen to them? Can they diverge onto
+massive tangents for many minutes at a time?</p>
+
+<p>To find out the answer to all these questions and more, listen to our first
+ever show.  Available for your downloading pleasure <a href="http://dopodcast.org/shows/show_1.mp3">here</a>
+or you can subscribe to our <a href="http://dopodcast.org/rss.xml">RSS feed</a> in your
+favourite podcatcher.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[do: A podcast about Ruby and Rubyists]]></title>

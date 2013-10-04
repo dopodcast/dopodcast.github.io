@@ -8,7 +8,21 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
+    <pubDate>Fri, 04 Oct 2013 16:34:00 +1300</pubDate>
+    <item>
+      <title>Show 1: Intro to &quot;do&quot;</title>
+      <link>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</link>
+      <description>
+&lt;p&gt;Who are these people? Why should I listen to them? Can they diverge onto massive tangents for many minutes at a time?&lt;/p&gt;
+
+&lt;p&gt;To find out the answer to all these questions and more, listen to our first ever show. Available for your downloading pleasure &lt;a href=&quot;http://dopodcast.org/shows/show_1.mp3&quot;&gt;here&lt;/a&gt; or you can subscribe to our &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS feed&lt;/a&gt; in your favourite podcatcher.&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_1.mp3"
+        length="21582100"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 04 Oct 2013 16:34:00 +1300</pubDate>
+      <dc:date>2013-10-04T16:34:00+13:00</dc:date>
+    </item>
     <item>
       <title>do: A podcast about Ruby and Rubyists</title>
       <link>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</link>
@@ -38,7 +52,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-09-28T15:28:00+12:00</dc:date>
+    <dc:date>2013-10-04T16:34:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
