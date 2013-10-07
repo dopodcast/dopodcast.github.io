@@ -16,3 +16,5 @@ To find out the answer to all these questions and more, listen to our first
 ever show.  Available for your downloading pleasure [here](http://dopodcast.org/shows/show_1.mp3)
 or you can subscribe to our [RSS feed](http://dopodcast.org/rss.xml) in your
 favourite podcatcher.
+
+{% audio http://dopodcast.org/shows/show_1.mp3 %}
