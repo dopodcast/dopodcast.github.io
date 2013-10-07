@@ -10,7 +10,7 @@ enclosure:
   length: 21582100
 ---
 Who are these people? Why should I listen to them? Can they diverge onto
-massive tangents for many minutes at a time?
+massive tangents for many minutes at a time? [Download MP3](http://dopodcast.org/shows/show_1.mp3).
 
 To find out the answer to all these questions and more, listen to our first
 ever show.  Available for your downloading pleasure [here](http://dopodcast.org/shows/show_1.mp3)
