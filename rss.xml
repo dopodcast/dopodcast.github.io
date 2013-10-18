@@ -8,7 +8,55 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Fri, 04 Oct 2013 16:34:00 +1300</pubDate>
+    <pubDate>Fri, 18 Oct 2013 13:23:00 +1300</pubDate>
+    <item>
+      <title>Show 2: A globally distributed team</title>
+      <link>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/</link>
+      <description>
+&lt;p&gt;An interview with Andrew Hooker (&lt;a href=&quot;https://github.com/GeekOnCoffee&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GeekOnCoffee&quot;&gt;twitter&lt;/a&gt;) and Ryan Bigg (&lt;a href=&quot;https://github.com/radar&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ryanbigg&quot;&gt;twitter&lt;/a&gt;) of &lt;a href=&quot;http://spreecommerce.com&quot;&gt;Spree Commerce&lt;/a&gt;, where we discuss the implications of working inside of a globally distributed team, and on a set of products which comprise a large open source component.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_2.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How Spree is coordinated and features are decided&lt;/li&gt;
+
+&lt;li&gt;Sprint planning across time zones&lt;/li&gt;
+
+&lt;li&gt;GitHub workflow&lt;/li&gt;
+
+&lt;li&gt;Spree team structure&lt;/li&gt;
+
+&lt;li&gt;How teams work across great distances&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amanda Wagener&lt;/li&gt;
+
+&lt;li&gt;Henry Maddocks&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Philip Arndt&lt;/li&gt;
+
+&lt;li&gt;Tim Carey-Smith&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_2.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_2.mp3"
+        length="23781986"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 18 Oct 2013 13:23:00 +1300</pubDate>
+      <dc:date>2013-10-18T13:23:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 1: Intro to &quot;do&quot;</title>
       <link>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</link>
@@ -58,7 +106,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-10-04T16:34:00+13:00</dc:date>
+    <dc:date>2013-10-18T13:23:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>

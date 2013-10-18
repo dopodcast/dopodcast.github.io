@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-10-08T12:41:37+13:00</updated>
+  <updated>2013-10-18T13:40:56+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 2: A globally distributed team]]></title>
+    <link href="http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/"/>
+    <updated>2013-10-18T13:23:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team</id>
+    <content type="html"><![CDATA[<p>An interview with Andrew Hooker (<a href="https://github.com/GeekOnCoffee">github</a>, <a href="https://twitter.com/GeekOnCoffee">twitter</a>) and Ryan Bigg (<a href="https://github.com/radar">github</a>, <a href="https://twitter.com/ryanbigg">twitter</a>) of <a href="http://spreecommerce.com">Spree Commerce</a>, where we discuss the implications of working inside of a globally distributed team, and on a set of products which comprise a large open source component.</p>
+
+<p><a href="http://dopodcast.org/shows/show_2.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+
+<h2>Topics covered:</h2>
+
+<ul>
+<li>How Spree is coordinated and features are decided</li>
+<li>Sprint planning across time zones</li>
+<li>GitHub workflow</li>
+<li>Spree team structure</li>
+<li>How teams work across great distances</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>Amanda Wagener</li>
+<li>Henry Maddocks</li>
+<li>James Harton</li>
+<li>Philip Arndt</li>
+<li>Tim Carey-Smith</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_2.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 1: Intro to "do"]]></title>
