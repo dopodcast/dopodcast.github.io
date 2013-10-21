@@ -29,3 +29,7 @@ Here's how you can get involved:
 
   * Make show or interview suggestions by raising or commenting on our GitHub
     issues.
+
+  * During live recording sessions you can ask questions on
+    [#dopodcast on freenode](irc://irc.freenode.org/dopodcast) or that show's
+    GitHub issue.  We'll attempt to summarise and raise them with our guests.
