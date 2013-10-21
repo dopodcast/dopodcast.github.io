@@ -20,5 +20,5 @@ Here's how you can get involved:
     [follow us on Google+](https://plus.google.com/104323044464093018582) and
     we'll post events for our upcoming hangouts-on-air.
 
-  * Make show or interview suggestions by raising or commentint on our GitHub
+  * Make show or interview suggestions by raising or commenting on our GitHub
     issues.
