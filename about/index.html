@@ -182,6 +182,40 @@ GitHub issue.  We&rsquo;ll attempt to summarise and raise them with our guests.<
 <aside class="sidebar">
   
     <section>
+  <h1>Upcoming Episodes</h1>
+  <ul id="upcoming_episodes">
+    <li class="loading">Updating...</li>
+  </ul>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+        url = "https://api.github.com/repos/dopodcast/dopodcast.github.io/issues?labels=not%20yet%20recorded"
+        renderIssue = function(url,title,dueOn) {
+          s = "<li><a href=\"" + url + "\">" + title + "</a>";
+          if (dueOn != undefined) {
+            dueOn = new Date(dueOn);
+            s = s + "<p>Due around " + dueOn.getDate() + "/" + (dueOn.getMonth() + 1) + "/" + dueOn.getFullYear() + "</p>";
+          }
+          s = s + "</li>";
+          return s;
+        };
+        $.getJSON(url, function(data) {
+          issues = [];
+          for (var i = 0; i < data.length; i++) {
+            issueUrl   = data[i].html_url
+            issueTitle = data[i].title
+            issueDueOn = undefined
+            if (data[i].milestone) {
+              issueDueOn = data[i].milestone.due_on
+            }
+            issues.push(renderIssue(issueUrl, issueTitle, issueDueOn));
+          }
+          $('#upcoming_episodes').html(issues.join("\n"));
+        });
+    });
+  </script>
+</section>
+<section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
