@@ -8,7 +8,65 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Fri, 18 Oct 2013 13:23:00 +1300</pubDate>
+    <pubDate>Fri, 01 Nov 2013 14:30:00 +1300</pubDate>
+    <item>
+      <title>Show 3: Capistrano with Lee Hanbley</title>
+      <link>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/</link>
+      <description>
+&lt;p&gt;An interview with Lee Hambley (&lt;a href=&quot;https://github.com/leehambley&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/leehambley&quot;&gt;twitter&lt;/a&gt;) about Capistrano, it’s current status and maintainership.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_3_capistrano.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interview_questions&quot;&gt;Interview questions:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What got you interested in Capistrano in the first place?&lt;/li&gt;
+
+&lt;li&gt;How did you become the maintainer of Capistrano?&lt;/li&gt;
+
+&lt;li&gt;Can you summarise your &lt;a href=&quot;https://groups.google.com/forum/#!topic/capistrano/nmMaqWR1z84&quot;&gt;recent public statement&lt;/a&gt;?&lt;/li&gt;
+
+&lt;li&gt;What did it feel like to have to admit that it was all too much?&lt;/li&gt;
+
+&lt;li&gt;What was the response to your public statement?&lt;/li&gt;
+
+&lt;li&gt;How are you feeling about it today?&lt;/li&gt;
+
+&lt;li&gt;Will you consider maintaining large open source projects in future?&lt;/li&gt;
+
+&lt;li&gt;How has maintaining a large open source project impacted your usage of other large projects?&lt;/li&gt;
+
+&lt;li&gt;What advice do you have to reduce the likelihood of other project maintainers reaching the same point of burnout?&lt;/li&gt;
+
+&lt;li&gt;What things can contributors or users of open source do to help maintainers?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amanda Wagener&lt;/li&gt;
+
+&lt;li&gt;Henry Maddocks&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Philip Arndt&lt;/li&gt;
+
+&lt;li&gt;Tim Carey-Smith&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_3_capistrano.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_3_capistrano.mp3"
+        length="30589744"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 01 Nov 2013 14:30:00 +1300</pubDate>
+      <dc:date>2013-11-01T14:30:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 2: A globally distributed team</title>
       <link>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/</link>
@@ -106,7 +164,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-10-18T13:23:00+13:00</dc:date>
+    <dc:date>2013-11-01T14:30:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
