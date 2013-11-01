@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show 3: Capistrano with Lee Hanbley"
+title: "Show 3: Capistrano with Lee Hambley"
 date: 2013-11-01 14:30
 comments: true
 categories: podcast
