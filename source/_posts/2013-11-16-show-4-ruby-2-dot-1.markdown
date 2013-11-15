@@ -4,10 +4,10 @@ title: "Show 4: Ruby 2.1"
 date: 2013-11-16 07:46
 comments: true
 categories: podcast
-  enclosure:
-    url: "http://dopodcast.org/shows/show_4_ruby21.mp3"
-    type: "audio/mpeg"
-    length: 28006141
+enclosure:
+  url: "http://dopodcast.org/shows/show_4_ruby21.mp3"
+  type: "audio/mpeg"
+  length: 28006141
 ---
 A panel discussion about the imminent [Ruby 2.1 Release](https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/)
 and the changes likely to be included.
