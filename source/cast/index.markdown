@@ -13,6 +13,8 @@ Name            | Github | Twitter
 ----            | ------ | ------
 James Harton	| [jamesotron](https://github.com/jamesotron) | [@jamesotron](https://twitter.com/jamesotron)
 Amanda Wagener	| [awagener](https://github.com/awagener)     | [@a_wagener](https://twitter.com/a_wagener)
+Samson Ootoovak | [ootovak](https://github.com/ootoovak)      | [@ootoovak](https://twitter.com/ootoovak)
+Shevaun Coker   | [shevaun](https://github.com/shevaun)       | [@shevauncoker](https://twitter.com/shevauncoker)
 Tim Carey-Smith	| [halorgium](https://github.com/halorgium)   | [@halorgium](https://twitter.com/halorgium)
 Henry Maddocks	| [hmaddocks](https://github.com/hmaddocks)   | [@henry_maddocks](https://twitter.com/henry_maddocks)
 Philip Arndt	| [parndt](https://github.com/parndt)	      | [@parndt](https://twitter.com/parndt)
