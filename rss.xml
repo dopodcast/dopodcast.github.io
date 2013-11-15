@@ -8,7 +8,63 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Fri, 01 Nov 2013 14:30:00 +1300</pubDate>
+    <pubDate>Sat, 16 Nov 2013 07:46:00 +1300</pubDate>
+    <item>
+      <title>Show 4: Ruby 2.1</title>
+      <link>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/</link>
+      <description>
+&lt;p&gt;A panel discussion about the imminent &lt;a href=&quot;https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/&quot;&gt;Ruby 2.1 Release&lt;/a&gt; and the changes likely to be included.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcsat.org/shows/show_4_ruby21.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Refinements&lt;/li&gt;
+
+&lt;li&gt;Call site method caching&lt;/li&gt;
+
+&lt;li&gt;Generational garbage collector &lt;a href=&quot;https://speakerdeck.com/nari/how-to-make-perfume-dance&quot;&gt;How to make Perfume dance&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Frozen string literals&lt;/li&gt;
+
+&lt;li&gt;Method definition returns method name&lt;/li&gt;
+
+&lt;li&gt;Decimal literals&lt;/li&gt;
+
+&lt;li&gt;StringScanner uses named captures&lt;/li&gt;
+
+&lt;li&gt;Required keyword arguments&lt;/li&gt;
+
+&lt;li&gt;Updated RubyGems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Henry Maddocks&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Samson Ootoovak&lt;/li&gt;
+
+&lt;li&gt;Shevaun Coker&lt;/li&gt;
+
+&lt;li&gt;Tim Carey-Smith&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_4_ruby21.mp3"
+        length="28006141"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 16 Nov 2013 07:46:00 +1300</pubDate>
+      <dc:date>2013-11-16T07:46:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 3: Capistrano with Lee Hambley</title>
       <link>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/</link>
@@ -164,7 +220,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-11-01T14:30:00+13:00</dc:date>
+    <dc:date>2013-11-16T07:46:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>

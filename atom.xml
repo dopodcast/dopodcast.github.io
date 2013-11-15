@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-11-01T15:03:03+13:00</updated>
+  <updated>2013-11-16T08:26:01+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 4: Ruby 2.1]]></title>
+    <link href="http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/"/>
+    <updated>2013-11-16T07:46:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1</id>
+    <content type="html"><![CDATA[<p>A panel discussion about the imminent <a href="https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/">Ruby 2.1 Release</a>
+and the changes likely to be included.</p>
+
+<p><a href="http://dopodcsat.org/shows/show_4_ruby21.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+
+<h2>Topics covered:</h2>
+
+<ul>
+<li>Refinements</li>
+<li>Call site method caching</li>
+<li>Generational garbage collector
+<a href="https://speakerdeck.com/nari/how-to-make-perfume-dance">How to make Perfume dance</a></li>
+<li>Frozen string literals</li>
+<li>Method definition returns method name</li>
+<li>Decimal literals</li>
+<li>StringScanner uses named captures</li>
+<li>Required keyword arguments</li>
+<li>Updated RubyGems</li>
+</ul>
+
+
+<h2>Panelists</h2>
+
+<ul>
+<li>Henry Maddocks</li>
+<li>James Harton</li>
+<li>Samson Ootoovak</li>
+<li>Shevaun Coker</li>
+<li>Tim Carey-Smith</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 3: Capistrano with Lee Hambley]]></title>
