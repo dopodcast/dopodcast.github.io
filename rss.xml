@@ -8,7 +8,53 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Sat, 16 Nov 2013 07:46:00 +1300</pubDate>
+    <pubDate>Wed, 04 Dec 2013 13:52:00 +1300</pubDate>
+    <item>
+      <title>Show 5: Ruby Community with Nahum Wild</title>
+      <link>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/</link>
+      <description>
+&lt;p&gt;Interview with Nahum Wild about Wellington’s &lt;a href=&quot;http://www.meetup.com/wellrailed/&quot;&gt;wellrailed&lt;/a&gt; user group, and organising &lt;a href=&quot;http://railscamps.com&quot;&gt;Rails Camp&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_5_community.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fostering different skill levels&lt;/li&gt;
+
+&lt;li&gt;Finding time to organise events&lt;/li&gt;
+
+&lt;li&gt;Diversity and providing a safe environment&lt;/li&gt;
+
+&lt;li&gt;Beer (and other refreshments)&lt;/li&gt;
+
+&lt;li&gt;Why is the ruby community so great?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Pat Allen&lt;/li&gt;
+
+&lt;li&gt;Philip Arndt&lt;/li&gt;
+
+&lt;li&gt;Samson Ootovak&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_5_community.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_5_community.mp3"
+        length="26886656"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 04 Dec 2013 13:52:00 +1300</pubDate>
+      <dc:date>2013-12-04T13:52:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 4: Ruby 2.1</title>
       <link>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/</link>
@@ -220,7 +266,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-11-16T07:46:00+13:00</dc:date>
+    <dc:date>2013-12-04T13:52:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>

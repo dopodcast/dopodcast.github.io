@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | do]]></title>
   <link href="http://dopodcast.org/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-11-16T08:41:11+13:00</updated>
+  <updated>2013-12-04T14:05:22+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 5: Ruby Community with Nahum Wild]]></title>
+    <link href="http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/"/>
+    <updated>2013-12-04T13:52:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild</id>
+    <content type="html"><![CDATA[<p>Interview with Nahum Wild about Wellington&rsquo;s <a href="http://www.meetup.com/wellrailed/">wellrailed</a> user group, and organising <a href="http://railscamps.com">Rails Camp</a>.</p>
+
+<p><a href="http://dopodcast.org/shows/show_5_community.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+
+<h2>Topics covered:</h2>
+
+<ul>
+<li>Fostering different skill levels</li>
+<li>Finding time to organise events</li>
+<li>Diversity and providing a safe environment</li>
+<li>Beer (and other refreshments)</li>
+<li>Why is the ruby community so great?</li>
+</ul>
+
+
+<h2>Panelists</h2>
+
+<ul>
+<li>James Harton</li>
+<li>Pat Allen</li>
+<li>Philip Arndt</li>
+<li>Samson Ootovak</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="<a" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 4: Ruby 2.1]]></title>
