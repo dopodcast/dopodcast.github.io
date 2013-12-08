@@ -20,3 +20,6 @@ Here's how you can get involved:
   * During live recording sessions you can ask questions on
     [#dopodcast on freenode](irc://irc.freenode.org/dopodcast) or that show's
     GitHub issue.  We'll attempt to summarise and raise them with our guests.
+
+If you're a showrunner, then [check out your responsibilities](https://github.com/dopodcast/dopodcast.github.io/wiki/So,-you're-going-to-run-a-show).
+If you're a participant then [read our participant notes](https://github.com/dopodcast/dopodcast.github.io/wiki/So-you%27re-coming-on-the-show).
