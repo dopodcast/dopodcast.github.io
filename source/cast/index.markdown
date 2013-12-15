@@ -27,3 +27,6 @@ Andrew Hooker	| [GeekOnCoffee](https://github.com/GeekOnCoffee) | [@GeekOnCoffee
 Ryan Bigg       | [radar](https://github.com/radar)               | [@ryanbigg](https://twitter.com/ryanbigg)         | [2](/blog/2013/10/18/show-2-a-globally-distributed-team/)
 Lee Hambley     | [leehambley](https://github.com/leehambley)     | [@leehambley](https://twitter.com/leehambley)     | [3](/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/)
 Nahum Wild      | [terrcin](https://github.com/terrcin)           | [@terrcin](https://twitter.com/terrcin)           | [5](/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/)
+Eoin Kelly      | [eoinkelly](https://github.com/eoinkelly)       | [@eoinkelly](https://twitter.com/eoinkelly)       | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Joshua Vial     | [joshuavial](https://github.com/joshuavial)     | [@joshuavial](https://twitter.com/joshuavial)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Matthew Hartley | [fourseven](https://github.com/fourseven)       | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
