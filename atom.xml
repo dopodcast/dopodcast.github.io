@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-12-04T14:05:22+13:00</updated>
+  <updated>2013-12-16T12:58:06+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 6: Teaching Ruby]]></title>
+    <link href="http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/"/>
+    <updated>2013-12-16T09:34:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby</id>
+    <content type="html"><![CDATA[<p>Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Matthew Hartley.</p>
+
+<p><a href="http://dopodcast.org/shows/show_6_teaching_ruby.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+
+<h2>Topics covered:</h2>
+
+<ul>
+<li><a href="http://iwanttolearnruby.com/">I want to learn Ruby</a></li>
+<li><a href="http://rubysteaparty.org/">Ruby&rsquo;s Tea Party</a></li>
+<li><a href="http://devacademy.co.nz/">Dev Academy</a></li>
+<li>Learning at University vs Technical Training vs on-the-job or self-taught.</li>
+<li>Difficultly level in starting out. Is Rails too big for beginners?</li>
+<li>Not everyone is learning to be a professional developer.</li>
+<li>Self-directed vs curriculum.</li>
+<li>Getting beginners along to meetups.</li>
+<li>Apprenticeships.</li>
+<li>Pairing, mentoring and demonstration.</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>Amanda Wagener</li>
+<li>James Harton</li>
+<li>Philip Arndt</li>
+<li>Samson Ootoovak</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 5: Ruby Community with Nahum Wild]]></title>

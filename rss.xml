@@ -8,7 +8,63 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Wed, 04 Dec 2013 13:52:00 +1300</pubDate>
+    <pubDate>Mon, 16 Dec 2013 09:34:00 +1300</pubDate>
+    <item>
+      <title>Show 6: Teaching Ruby</title>
+      <link>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/</link>
+      <description>
+&lt;p&gt;Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Matthew Hartley.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_6_teaching_ruby.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://iwanttolearnruby.com/&quot;&gt;I want to learn Ruby&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://rubysteaparty.org/&quot;&gt;Ruby’s Tea Party&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://devacademy.co.nz/&quot;&gt;Dev Academy&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Learning at University vs Technical Training vs on-the-job or self-taught.&lt;/li&gt;
+
+&lt;li&gt;Difficultly level in starting out. Is Rails too big for beginners?&lt;/li&gt;
+
+&lt;li&gt;Not everyone is learning to be a professional developer.&lt;/li&gt;
+
+&lt;li&gt;Self-directed vs curriculum.&lt;/li&gt;
+
+&lt;li&gt;Getting beginners along to meetups.&lt;/li&gt;
+
+&lt;li&gt;Apprenticeships.&lt;/li&gt;
+
+&lt;li&gt;Pairing, mentoring and demonstration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amanda Wagener&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Philip Arndt&lt;/li&gt;
+
+&lt;li&gt;Samson Ootoovak&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_6_teaching_ruby.mp3"
+        length="28128427"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 16 Dec 2013 09:34:00 +1300</pubDate>
+      <dc:date>2013-12-16T09:34:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 5: Ruby Community with Nahum Wild</title>
       <link>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/</link>
@@ -266,7 +322,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-12-04T13:52:00+13:00</dc:date>
+    <dc:date>2013-12-16T09:34:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
