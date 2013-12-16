@@ -29,4 +29,4 @@ Lee Hambley     | [leehambley](https://github.com/leehambley)     | [@leehambley
 Nahum Wild      | [terrcin](https://github.com/terrcin)           | [@terrcin](https://twitter.com/terrcin)           | [5](/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/)
 Eoin Kelly      | [eoinkelly](https://github.com/eoinkelly)       | [@eoinkelly](https://twitter.com/eoinkelly)       | [6](/blog/2013/12/16/show-6-teaching-ruby/)
 Joshua Vial     | [joshuavial](https://github.com/joshuavial)     | [@joshuavial](https://twitter.com/joshuavial)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
-Matthew Hartley | [fourseven](https://github.com/fourseven)       | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Mathew Hartley  | [fourseven](https://github.com/fourseven)       | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
