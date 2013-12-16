@@ -9,7 +9,7 @@ enclosure:
   type: "audio/mpeg"
   length: 28128427
 ---
-Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Matthew Hartley.
+Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Hartley.
 
 [MP3 Download](http://dopodcast.org/shows/show_6_teaching_ruby.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
 
