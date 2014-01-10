@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2013-12-16T13:14:49+13:00</updated>
+  <updated>2014-01-10T20:18:07+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 7: RSpec 3 with Jon Rowe]]></title>
+    <link href="http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/"/>
+    <updated>2014-01-10T19:42:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe</id>
+    <content type="html"><![CDATA[<p>A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.</p>
+
+<p><a href="http://dopodcast.org/shows/show_7_rspec3.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+
+<h2>Topics covered:</h2>
+
+<ul>
+<li>What is RSpec</li>
+<li>Why RSpec (instead of minitest, for example)</li>
+<li>Differences between RSpec 2.x and 3</li>
+<li>When will RSpec 3 be released?</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>James Harton</li>
+<li>Philip Arndt</li>
+<li>Samson Ootoovak</li>
+<li>Shevaun Coker</li>
+<li>Ryan Bigg</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 6: Teaching Ruby]]></title>

@@ -8,7 +8,53 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Mon, 16 Dec 2013 09:34:00 +1300</pubDate>
+    <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+    <item>
+      <title>Show 7: RSpec 3 with Jon Rowe</title>
+      <link>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</link>
+      <description>
+&lt;p&gt;A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_7_rspec3.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is RSpec&lt;/li&gt;
+
+&lt;li&gt;Why RSpec (instead of minitest, for example)&lt;/li&gt;
+
+&lt;li&gt;Differences between RSpec 2.x and 3&lt;/li&gt;
+
+&lt;li&gt;When will RSpec 3 be released?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Philip Arndt&lt;/li&gt;
+
+&lt;li&gt;Samson Ootoovak&lt;/li&gt;
+
+&lt;li&gt;Shevaun Coker&lt;/li&gt;
+
+&lt;li&gt;Ryan Bigg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://dopodcast.org/shows/show_7_rspec3.mp3"
+        length="26461482"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+      <dc:date>2014-01-10T19:42:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 6: Teaching Ruby</title>
       <link>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/</link>
@@ -322,7 +368,7 @@
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2013-12-16T09:34:00+13:00</dc:date>
+    <dc:date>2014-01-10T19:42:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
