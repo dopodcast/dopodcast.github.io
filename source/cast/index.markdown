@@ -19,6 +19,7 @@ Tim Carey-Smith	| [halorgium](https://github.com/halorgium)   | [@halorgium](htt
 Henry Maddocks	| [hmaddocks](https://github.com/hmaddocks)   | [@henry_maddocks](https://twitter.com/henry_maddocks)
 Pat Allan       | [pat](https://github.com/pat)               | [@pat](https://twitter.com/pat)
 Philip Arndt	| [parndt](https://github.com/parndt)	      | [@parndt](https://twitter.com/parndt)
+Ryan Bigg       | [radar](https://github.com/radar)           | [@ryanbigg](https://twitter.com/ryanbigg)
 
 ## Guests
 Name            | Github | Twitter | Episode
@@ -30,3 +31,4 @@ Nahum Wild      | [terrcin](https://github.com/terrcin)           | [@terrcin](h
 Eoin Kelly      | [eoinkelly](https://github.com/eoinkelly)       | [@eoinkelly](https://twitter.com/eoinkelly)       | [6](/blog/2013/12/16/show-6-teaching-ruby/)
 Joshua Vial     | [joshuavial](https://github.com/joshuavial)     | [@joshuavial](https://twitter.com/joshuavial)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
 Mathew Hartley  | [fourseven](https://github.com/fourseven)       | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Jon Rowe        | [JonRowe](https://github.com/JonRowe)           | [@JonRowe](https://twitter.com/JonRowe)           | [7](/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/)
