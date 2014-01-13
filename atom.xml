@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-01-10T20:18:07+13:00</updated>
+  <updated>2014-01-13T15:11:10+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -20,7 +20,7 @@
     <id>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe</id>
     <content type="html"><![CDATA[<p>A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.</p>
 
-<p><a href="http://dopodcast.org/shows/show_7_rspec3.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_7_rspec3.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -45,7 +45,7 @@
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -58,7 +58,7 @@
     <id>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby</id>
     <content type="html"><![CDATA[<p>Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Hartley.</p>
 
-<p><a href="http://dopodcast.org/shows/show_6_teaching_ruby.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -88,7 +88,7 @@
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -101,7 +101,7 @@
     <id>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild</id>
     <content type="html"><![CDATA[<p>Interview with Nahum Wild about Wellington&rsquo;s <a href="http://www.meetup.com/wellrailed/">wellrailed</a> user group, and organising <a href="http://railscamps.com">Rails Camp</a>.</p>
 
-<p><a href="http://dopodcast.org/shows/show_5_community.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_5_community.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -126,7 +126,7 @@
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_5_community.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_5_community.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -140,7 +140,7 @@
     <content type="html"><![CDATA[<p>A panel discussion about the imminent <a href="https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/">Ruby 2.1 Release</a>
 and the changes likely to be included.</p>
 
-<p><a href="http://dopodcast.org/shows/show_4_ruby21.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_4_ruby21.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -171,7 +171,7 @@ and the changes likely to be included.</p>
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -185,7 +185,7 @@ and the changes likely to be included.</p>
     <content type="html"><![CDATA[<p>An interview with Lee Hambley (<a href="https://github.com/leehambley">github</a>, <a href="https://twitter.com/leehambley">twitter</a>)
 about Capistrano, it&rsquo;s current status and maintainership.</p>
 
-<p><a href="http://dopodcast.org/shows/show_3_capistrano.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_3_capistrano.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Interview questions:</h2>
 
@@ -216,7 +216,7 @@ about Capistrano, it&rsquo;s current status and maintainership.</p>
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_3_capistrano.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_3_capistrano.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -229,7 +229,7 @@ about Capistrano, it&rsquo;s current status and maintainership.</p>
     <id>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team</id>
     <content type="html"><![CDATA[<p>An interview with Andrew Hooker (<a href="https://github.com/GeekOnCoffee">github</a>, <a href="https://twitter.com/GeekOnCoffee">twitter</a>) and Ryan Bigg (<a href="https://github.com/radar">github</a>, <a href="https://twitter.com/ryanbigg">twitter</a>) of <a href="http://spreecommerce.com">Spree Commerce</a>, where we discuss the implications of working inside of a globally distributed team, and on a set of products which comprise a large open source component.</p>
 
-<p><a href="http://dopodcast.org/shows/show_2.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_2.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -255,7 +255,7 @@ about Capistrano, it&rsquo;s current status and maintainership.</p>
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_2.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_2.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
@@ -267,16 +267,16 @@ about Capistrano, it&rsquo;s current status and maintainership.</p>
     <updated>2013-10-04T16:34:00+13:00</updated>
     <id>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do</id>
     <content type="html"><![CDATA[<p>Who are these people? Why should I listen to them? Can they diverge onto
-massive tangents for many minutes at a time? <a href="http://dopodcast.org/shows/show_1.mp3">Download MP3</a>.</p>
+massive tangents for many minutes at a time? <a href="http://cdn.dopodcast.org/shows/show_1.mp3">Download MP3</a>.</p>
 
 <p>To find out the answer to all these questions and more, listen to our first
-ever show.  Available for your downloading pleasure <a href="http://dopodcast.org/shows/show_1.mp3">here</a>
+ever show.  Available for your downloading pleasure <a href="http://cdn.dopodcast.org/shows/show_1.mp3">here</a>
 or you can subscribe to our <a href="http://dopodcast.org/rss.xml">RSS feed</a> in your
 favourite podcatcher.</p>
 
 <p><p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_1.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_1.mp3" preload="none" />
 </center>
 <p/></p>
 ]]></content>
