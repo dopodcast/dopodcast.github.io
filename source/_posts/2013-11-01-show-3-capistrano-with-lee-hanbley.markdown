@@ -5,14 +5,14 @@ date: 2013-11-01 14:30
 comments: true
 categories: podcast
 enclosure:
-  url: "http://dopodcast.org/shows/show_3_capistrano.mp3"
+  url: "http://cdn.dopodcast.org/shows/show_3_capistrano.mp3"
   type: "audio/mpeg"
   length: 30589744
 ---
 An interview with Lee Hambley ([github](https://github.com/leehambley), [twitter](https://twitter.com/leehambley))
 about Capistrano, it's current status and maintainership.
 
-[MP3 Download](http://dopodcast.org/shows/show_3_capistrano.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
+[MP3 Download](http://cdn.dopodcast.org/shows/show_3_capistrano.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
 
 ## Interview questions:
 - What got you interested in Capistrano in the first place?
@@ -33,4 +33,4 @@ about Capistrano, it's current status and maintainership.
 - Philip Arndt
 - Tim Carey-Smith
 
-{% audio http://dopodcast.org/shows/show_3_capistrano.mp3 %}
+{% audio http://cdn.dopodcast.org/shows/show_3_capistrano.mp3 %}

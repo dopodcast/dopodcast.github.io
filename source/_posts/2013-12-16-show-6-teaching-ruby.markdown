@@ -5,13 +5,13 @@ date: 2013-12-16 09:34
 comments: true
 categories: podcast
 enclosure:
-  url: "http://dopodcast.org/shows/show_6_teaching_ruby.mp3"
+  url: "http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3"
   type: "audio/mpeg"
   length: 28128427
 ---
 Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Hartley.
 
-[MP3 Download](http://dopodcast.org/shows/show_6_teaching_ruby.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
+[MP3 Download](http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
 
 ## Topics covered:
 - [I want to learn Ruby](http://iwanttolearnruby.com/)
@@ -31,4 +31,4 @@ Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Har
 - Philip Arndt
 - Samson Ootoovak
 
-{% audio http://dopodcast.org/shows/show_6_teaching_ruby.mp3 %}
+{% audio http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3 %}

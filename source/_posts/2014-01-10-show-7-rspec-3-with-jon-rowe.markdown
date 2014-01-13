@@ -5,13 +5,13 @@ date: 2014-01-10 19:42
 comments: true
 categories: podcast
 enclosure:
-  url: "http://dopodcast.org/shows/show_7_rspec3.mp3"
+  url: "http://cdn.dopodcast.org/shows/show_7_rspec3.mp3"
   type: "audio/mpeg"
   length: 26461482
 ---
 A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.
 
-[MP3 Download](http://dopodcast.org/shows/show_7_rspec3.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
+[MP3 Download](http://cdn.dopodcast.org/shows/show_7_rspec3.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml)
 
 ## Topics covered:
 - What is RSpec
@@ -26,4 +26,4 @@ A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the R
 - Shevaun Coker
 - Ryan Bigg
 
-{% audio http://dopodcast.org/shows/show_7_rspec3.mp3 %}
+{% audio http://cdn.dopodcast.org/shows/show_7_rspec3.mp3 %}
