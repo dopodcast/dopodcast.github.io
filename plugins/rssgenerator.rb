@@ -65,6 +65,7 @@ module Jekyll
               item.title = post.data['title']
             end
             item.link = "#{site.config['url']}#{post.url}"
+            item.guid.content = item.link
             item.description = Maruku.new(post.content).to_html
             item.updated = post.date
             # Add an enclosure, provided that there is an enclosure
