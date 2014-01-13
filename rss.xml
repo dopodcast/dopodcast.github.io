@@ -53,6 +53,7 @@
         length="26461482"
         type="audio/mpeg"/>
       <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</guid>
       <dc:date>2014-01-10T19:42:00+13:00</dc:date>
     </item>
     <item>
@@ -109,6 +110,7 @@
         length="28128427"
         type="audio/mpeg"/>
       <pubDate>Mon, 16 Dec 2013 09:34:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/</guid>
       <dc:date>2013-12-16T09:34:00+13:00</dc:date>
     </item>
     <item>
@@ -155,6 +157,7 @@
         length="26886656"
         type="audio/mpeg"/>
       <pubDate>Wed, 04 Dec 2013 13:52:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/</guid>
       <dc:date>2013-12-04T13:52:00+13:00</dc:date>
     </item>
     <item>
@@ -211,6 +214,7 @@
         length="28006141"
         type="audio/mpeg"/>
       <pubDate>Sat, 16 Nov 2013 07:46:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/</guid>
       <dc:date>2013-11-16T07:46:00+13:00</dc:date>
     </item>
     <item>
@@ -269,6 +273,7 @@
         length="30589744"
         type="audio/mpeg"/>
       <pubDate>Fri, 01 Nov 2013 14:30:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/</guid>
       <dc:date>2013-11-01T14:30:00+13:00</dc:date>
     </item>
     <item>
@@ -317,6 +322,7 @@
         length="23781986"
         type="audio/mpeg"/>
       <pubDate>Fri, 18 Oct 2013 13:23:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/</guid>
       <dc:date>2013-10-18T13:23:00+13:00</dc:date>
     </item>
     <item>
@@ -337,6 +343,7 @@
         length="21582100"
         type="audio/mpeg"/>
       <pubDate>Fri, 04 Oct 2013 16:34:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</guid>
       <dc:date>2013-10-04T16:34:00+13:00</dc:date>
     </item>
     <item>
@@ -366,6 +373,7 @@
 &lt;/ul&gt;
 </description>
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
+      <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</guid>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
     <dc:date>2014-01-10T19:42:00+13:00</dc:date>
