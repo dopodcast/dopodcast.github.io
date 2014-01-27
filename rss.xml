@@ -8,7 +8,96 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+    <pubDate>Tue, 28 Jan 2014 10:07:00 +1300</pubDate>
+    <item>
+      <title>Show 8: Mental Illness with Greg Baugues and Ed Finkler</title>
+      <link>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/</link>
+      <description>
+&lt;p&gt;A slightly-lengtier-than-usual discussion about how mental health intersects with the developer community.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;, &lt;a href=&quot;https://github.com/dopodcast/dopodcast.github.io/issues/12&quot;&gt;GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics Covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Our histories&lt;/li&gt;
+
+&lt;li&gt;How do we know if we’re unwell?&lt;/li&gt;
+
+&lt;li&gt;How can I help someone who is suffering?&lt;/li&gt;
+
+&lt;li&gt;How do I talk to my employer/team/clients about my health?&lt;/li&gt;
+
+&lt;li&gt;How do I manage my illness long term?&lt;/li&gt;
+
+&lt;li&gt;What are some common management strategies?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex Gibson&lt;/li&gt;
+
+&lt;li&gt;Ed Finkler&lt;/li&gt;
+
+&lt;li&gt;Greg Baugues&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Merrin Macleod&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://devpressed.com&quot;&gt;devpressed.com&lt;/a&gt; - discourse forum for depression in tech&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://bluehackers.org&quot;&gt;Blue Hackers&lt;/a&gt; - articles and information specific for technologists&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://prompt.engineyard.com&quot;&gt;&amp;gt; Prompt&lt;/a&gt; - mental health awareness event&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://mentalpod.com&quot;&gt;The Mental Illness Happy Hour&lt;/a&gt; - podcast (and &lt;a href=&quot;http://mentalpod.com/forum/&quot;&gt;forum&lt;/a&gt;) about mental illness&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=NOAgplgTxfc&quot;&gt;Stanford’s Sapolsky On Depression in U.S. (Full Lecture)&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;United States specific mental health resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealthfirstaid.org/&quot;&gt;Mental Health First Aid&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealthamerica.net/&quot;&gt;Mental Health America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;New Zealand specific mental health resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mentalhealthservices.org.nz/&quot;&gt;Wellington Mental Health Services&lt;/a&gt; (&lt;a href=&quot;http://mentalhealthservices.org.nz/page/51-general-adult+crisis-assessment-treatment-team&quot;&gt;crisis number&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/default.aspx&quot;&gt;Palmerston North Mental Health Services&lt;/a&gt; (&lt;a href=&quot;http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/General-Adult.aspx&quot;&gt;crisis number&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.healthpoint.co.nz/specialists/mental-health/auckland-dhb-community-mental-health-services/&quot;&gt;Auckland Mental Health Services&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://njr.cdhb.health.nz/yourhealth/mental.htm&quot;&gt;Christchurch Mental Health Services&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.workingwell.co.nz/&quot;&gt;Working Well&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealth.org.nz/&quot;&gt;Mental Health Foundation of NZ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://cdn.dopodcast.org/shows/show_8_mental_illess.mp3"
+        length="44229217"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jan 2014 10:07:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/</guid>
+      <dc:date>2014-01-28T10:07:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 7: RSpec 3 with Jon Rowe</title>
       <link>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</link>
@@ -376,7 +465,7 @@
       <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</guid>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2014-01-10T19:42:00+13:00</dc:date>
+    <dc:date>2014-01-28T10:07:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
