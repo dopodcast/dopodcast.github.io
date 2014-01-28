@@ -8,14 +8,103 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+    <pubDate>Tue, 28 Jan 2014 10:07:00 +1300</pubDate>
+    <item>
+      <title>Show 8: Mental Illness with Greg Baugues and Ed Finkler</title>
+      <link>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/</link>
+      <description>
+&lt;p&gt;A slightly-lengtier-than-usual discussion about how mental health intersects with the developer community.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;, &lt;a href=&quot;https://github.com/dopodcast/dopodcast.github.io/issues/12&quot;&gt;GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics Covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Our histories&lt;/li&gt;
+
+&lt;li&gt;How do we know if we’re unwell?&lt;/li&gt;
+
+&lt;li&gt;How can I help someone who is suffering?&lt;/li&gt;
+
+&lt;li&gt;How do I talk to my employer/team/clients about my health?&lt;/li&gt;
+
+&lt;li&gt;How do I manage my illness long term?&lt;/li&gt;
+
+&lt;li&gt;What are some common management strategies?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex Gibson&lt;/li&gt;
+
+&lt;li&gt;Ed Finkler&lt;/li&gt;
+
+&lt;li&gt;Greg Baugues&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Merrin Macleod&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://devpressed.com&quot;&gt;devpressed.com&lt;/a&gt; - discourse forum for depression in tech&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://bluehackers.org&quot;&gt;Blue Hackers&lt;/a&gt; - articles and information specific for technologists&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://prompt.engineyard.com&quot;&gt;&amp;gt; Prompt&lt;/a&gt; - mental health awareness event&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://mentalpod.com&quot;&gt;The Mental Illness Happy Hour&lt;/a&gt; - podcast (and &lt;a href=&quot;http://mentalpod.com/forum/&quot;&gt;forum&lt;/a&gt;) about mental illness&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=NOAgplgTxfc&quot;&gt;Stanford’s Sapolsky On Depression in U.S. (Full Lecture)&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;United States specific mental health resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealthfirstaid.org/&quot;&gt;Mental Health First Aid&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealthamerica.net/&quot;&gt;Mental Health America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;li&gt;New Zealand specific mental health resources:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mentalhealthservices.org.nz/&quot;&gt;Wellington Mental Health Services&lt;/a&gt; (&lt;a href=&quot;http://mentalhealthservices.org.nz/page/51-general-adult+crisis-assessment-treatment-team&quot;&gt;crisis number&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/default.aspx&quot;&gt;Palmerston North Mental Health Services&lt;/a&gt; (&lt;a href=&quot;http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/General-Adult.aspx&quot;&gt;crisis number&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.healthpoint.co.nz/specialists/mental-health/auckland-dhb-community-mental-health-services/&quot;&gt;Auckland Mental Health Services&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://njr.cdhb.health.nz/yourhealth/mental.htm&quot;&gt;Christchurch Mental Health Services&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.workingwell.co.nz/&quot;&gt;Working Well&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://www.mentalhealth.org.nz/&quot;&gt;Mental Health Foundation of NZ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3"
+        length="44229217"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jan 2014 10:07:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/</guid>
+      <dc:date>2014-01-28T10:07:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 7: RSpec 3 with Jon Rowe</title>
       <link>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</link>
       <description>
 &lt;p&gt;A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_7_rspec3.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_7_rspec3.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
 
@@ -45,14 +134,15 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_7_rspec3.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_7_rspec3.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_7_rspec3.mp3"
         length="26461482"
         type="audio/mpeg"/>
       <pubDate>Fri, 10 Jan 2014 19:42:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</guid>
       <dc:date>2014-01-10T19:42:00+13:00</dc:date>
     </item>
     <item>
@@ -61,7 +151,7 @@
       <description>
 &lt;p&gt;Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Hartley.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_6_teaching_ruby.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
 
@@ -101,14 +191,15 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_6_teaching_ruby.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3"
         length="28128427"
         type="audio/mpeg"/>
       <pubDate>Mon, 16 Dec 2013 09:34:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/</guid>
       <dc:date>2013-12-16T09:34:00+13:00</dc:date>
     </item>
     <item>
@@ -117,7 +208,7 @@
       <description>
 &lt;p&gt;Interview with Nahum Wild about Wellington’s &lt;a href=&quot;http://www.meetup.com/wellrailed/&quot;&gt;wellrailed&lt;/a&gt; user group, and organising &lt;a href=&quot;http://railscamps.com&quot;&gt;Rails Camp&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_5_community.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_5_community.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
 
@@ -147,14 +238,15 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_5_community.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_5_community.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_5_community.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_5_community.mp3"
         length="26886656"
         type="audio/mpeg"/>
       <pubDate>Wed, 04 Dec 2013 13:52:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/</guid>
       <dc:date>2013-12-04T13:52:00+13:00</dc:date>
     </item>
     <item>
@@ -163,7 +255,7 @@
       <description>
 &lt;p&gt;A panel discussion about the imminent &lt;a href=&quot;https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/&quot;&gt;Ruby 2.1 Release&lt;/a&gt; and the changes likely to be included.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_4_ruby21.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_4_ruby21.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
 
@@ -203,14 +295,15 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_4_ruby21.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_4_ruby21.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_4_ruby21.mp3"
         length="28006141"
         type="audio/mpeg"/>
       <pubDate>Sat, 16 Nov 2013 07:46:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/</guid>
       <dc:date>2013-11-16T07:46:00+13:00</dc:date>
     </item>
     <item>
@@ -219,7 +312,7 @@
       <description>
 &lt;p&gt;An interview with Lee Hambley (&lt;a href=&quot;https://github.com/leehambley&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/leehambley&quot;&gt;twitter&lt;/a&gt;) about Capistrano, it’s current status and maintainership.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_3_capistrano.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_3_capistrano.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;interview_questions&quot;&gt;Interview questions:&lt;/h2&gt;
 
@@ -261,14 +354,15 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_3_capistrano.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_3_capistrano.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_3_capistrano.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_3_capistrano.mp3"
         length="30589744"
         type="audio/mpeg"/>
       <pubDate>Fri, 01 Nov 2013 14:30:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/</guid>
       <dc:date>2013-11-01T14:30:00+13:00</dc:date>
     </item>
     <item>
@@ -277,7 +371,7 @@
       <description>
 &lt;p&gt;An interview with Andrew Hooker (&lt;a href=&quot;https://github.com/GeekOnCoffee&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/GeekOnCoffee&quot;&gt;twitter&lt;/a&gt;) and Ryan Bigg (&lt;a href=&quot;https://github.com/radar&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ryanbigg&quot;&gt;twitter&lt;/a&gt;) of &lt;a href=&quot;http://spreecommerce.com&quot;&gt;Spree Commerce&lt;/a&gt;, where we discuss the implications of working inside of a globally distributed team, and on a set of products which comprise a large open source component.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://dopodcast.org/shows/show_2.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_2.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;topics_covered&quot;&gt;Topics covered:&lt;/h2&gt;
 
@@ -309,34 +403,36 @@
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_2.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_2.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_2.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_2.mp3"
         length="23781986"
         type="audio/mpeg"/>
       <pubDate>Fri, 18 Oct 2013 13:23:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/</guid>
       <dc:date>2013-10-18T13:23:00+13:00</dc:date>
     </item>
     <item>
       <title>Show 1: Intro to &quot;do&quot;</title>
       <link>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</link>
       <description>
-&lt;p&gt;Who are these people? Why should I listen to them? Can they diverge onto massive tangents for many minutes at a time? &lt;a href=&quot;http://dopodcast.org/shows/show_1.mp3&quot;&gt;Download MP3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Who are these people? Why should I listen to them? Can they diverge onto massive tangents for many minutes at a time? &lt;a href=&quot;http://cdn.dopodcast.org/shows/show_1.mp3&quot;&gt;Download MP3&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To find out the answer to all these questions and more, listen to our first ever show. Available for your downloading pleasure &lt;a href=&quot;http://dopodcast.org/shows/show_1.mp3&quot;&gt;here&lt;/a&gt; or you can subscribe to our &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS feed&lt;/a&gt; in your favourite podcatcher.&lt;/p&gt;
+&lt;p&gt;To find out the answer to all these questions and more, listen to our first ever show. Available for your downloading pleasure &lt;a href=&quot;http://cdn.dopodcast.org/shows/show_1.mp3&quot;&gt;here&lt;/a&gt; or you can subscribe to our &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS feed&lt;/a&gt; in your favourite podcatcher.&lt;/p&gt;
 
 &lt;p&gt;<p/>
 <center>
-<audio src="http://dopodcast.org/shows/show_1.mp3" preload="none" />
+<audio src="http://cdn.dopodcast.org/shows/show_1.mp3" preload="none" />
 </center>
 <p/>&lt;/p&gt;
 </description>
-      <enclosure url="http://dopodcast.org/shows/show_1.mp3"
+      <enclosure url="http://cdn.dopodcast.org/shows/show_1.mp3"
         length="21582100"
         type="audio/mpeg"/>
       <pubDate>Fri, 04 Oct 2013 16:34:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</guid>
       <dc:date>2013-10-04T16:34:00+13:00</dc:date>
     </item>
     <item>
@@ -366,9 +462,10 @@
 &lt;/ul&gt;
 </description>
       <pubDate>Sat, 28 Sep 2013 15:28:00 +1200</pubDate>
+      <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</guid>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2014-01-10T19:42:00+13:00</dc:date>
+    <dc:date>2014-01-28T10:07:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>

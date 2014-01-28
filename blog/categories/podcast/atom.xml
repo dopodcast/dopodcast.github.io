@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | do]]></title>
   <link href="http://dopodcast.org/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-01-10T20:18:07+13:00</updated>
+  <updated>2014-01-28T19:38:17+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -14,13 +14,82 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Show 8: Mental Illness with Greg Baugues and Ed Finkler]]></title>
+    <link href="http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/"/>
+    <updated>2014-01-28T10:07:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler</id>
+    <content type="html"><![CDATA[<p>A slightly-lengtier-than-usual discussion about how mental health intersects with the developer community.</p>
+
+<p><a href="http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a>, <a href="https://github.com/dopodcast/dopodcast.github.io/issues/12">GitHub issue</a>.</p>
+
+<h2>Topics Covered:</h2>
+
+<ul>
+<li>Our histories</li>
+<li>How do we know if we&rsquo;re unwell?</li>
+<li>How can I help someone who is suffering?</li>
+<li>How do I talk to my employer/team/clients about my health?</li>
+<li>How do I manage my illness long term?</li>
+<li>What are some common management strategies?</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>Alex Gibson</li>
+<li>Ed Finkler</li>
+<li>Greg Baugues</li>
+<li>James Harton</li>
+<li>Merrin Macleod</li>
+</ul>
+
+
+<h2>Resources:</h2>
+
+<ul>
+<li><a href="http://devpressed.com">devpressed.com</a> &ndash; discourse forum for depression in tech</li>
+<li><a href="http://bluehackers.org">Blue Hackers</a> &ndash; articles and information specific for technologists</li>
+<li><a href="http://prompt.engineyard.com">> Prompt</a> &ndash; mental health awareness event</li>
+<li><a href="http://mentalpod.com">The Mental Illness Happy Hour</a> &ndash; podcast (and <a href="http://mentalpod.com/forum/">forum</a>) about mental illness</li>
+<li><a href="http://www.youtube.com/watch?v=NOAgplgTxfc">Stanford&rsquo;s Sapolsky On Depression in U.S. (Full Lecture)</a></li>
+<li>United States specific mental health resources:
+
+<ul>
+<li><a href="http://www.mentalhealthfirstaid.org/">Mental Health First Aid</a></li>
+<li><a href="http://www.mentalhealthamerica.net/">Mental Health America</a></li>
+</ul>
+</li>
+<li>New Zealand specific mental health resources:
+
+<ul>
+<li><a href="http://mentalhealthservices.org.nz/">Wellington Mental Health Services</a> (<a href="http://mentalhealthservices.org.nz/page/51-general-adult+crisis-assessment-treatment-team">crisis number</a>)</li>
+<li><a href="http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/default.aspx">Palmerston North Mental Health Services</a> (<a href="http://www.midcentraldhb.govt.nz/HealthServices/MentalHealth/Pages/General-Adult.aspx">crisis number</a>)</li>
+<li><a href="http://www.healthpoint.co.nz/specialists/mental-health/auckland-dhb-community-mental-health-services/">Auckland Mental Health Services</a></li>
+<li><a href="http://njr.cdhb.health.nz/yourhealth/mental.htm">Christchurch Mental Health Services</a></li>
+<li><a href="http://www.workingwell.co.nz/">Working Well</a></li>
+<li><a href="http://www.mentalhealth.org.nz/">Mental Health Foundation of NZ</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="<a" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Show 7: RSpec 3 with Jon Rowe]]></title>
     <link href="http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/"/>
     <updated>2014-01-10T19:42:00+13:00</updated>
     <id>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe</id>
     <content type="html"><![CDATA[<p>A discussion about the upcoming RSpec 3 release with Jon Rowe, a member of the RSpec core team.</p>
 
-<p><a href="http://dopodcast.org/shows/show_7_rspec3.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_7_rspec3.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -58,7 +127,7 @@
     <id>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby</id>
     <content type="html"><![CDATA[<p>Panel discussion about teaching Ruby with Eoin Kelly, Joshua Vial and Mathew Hartley.</p>
 
-<p><a href="http://dopodcast.org/shows/show_6_teaching_ruby.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_6_teaching_ruby.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -101,7 +170,7 @@
     <id>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild</id>
     <content type="html"><![CDATA[<p>Interview with Nahum Wild about Wellington&rsquo;s <a href="http://www.meetup.com/wellrailed/">wellrailed</a> user group, and organising <a href="http://railscamps.com">Rails Camp</a>.</p>
 
-<p><a href="http://dopodcast.org/shows/show_5_community.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_5_community.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -140,7 +209,7 @@
     <content type="html"><![CDATA[<p>A panel discussion about the imminent <a href="https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/">Ruby 2.1 Release</a>
 and the changes likely to be included.</p>
 
-<p><a href="http://dopodcast.org/shows/show_4_ruby21.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
+<p><a href="http://cdn.dopodcast.org/shows/show_4_ruby21.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
 
 <h2>Topics covered:</h2>
 
@@ -165,51 +234,6 @@ and the changes likely to be included.</p>
 <li>James Harton</li>
 <li>Samson Ootoovak</li>
 <li>Shevaun Coker</li>
-<li>Tim Carey-Smith</li>
-</ul>
-
-
-<p><p/>
-<center>
-<audio src="<a" preload="none" />
-</center>
-<p/></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Show 3: Capistrano with Lee Hambley]]></title>
-    <link href="http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/"/>
-    <updated>2013-11-01T14:30:00+13:00</updated>
-    <id>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley</id>
-    <content type="html"><![CDATA[<p>An interview with Lee Hambley (<a href="https://github.com/leehambley">github</a>, <a href="https://twitter.com/leehambley">twitter</a>)
-about Capistrano, it&rsquo;s current status and maintainership.</p>
-
-<p><a href="http://dopodcast.org/shows/show_3_capistrano.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a></p>
-
-<h2>Interview questions:</h2>
-
-<ul>
-<li>What got you interested in Capistrano in the first place?</li>
-<li>How did you become the maintainer of Capistrano?</li>
-<li>Can you summarise your <a href="https://groups.google.com/forum/#!topic/capistrano/nmMaqWR1z84">recent public statement</a>?</li>
-<li>What did it feel like to have to admit that it was all too much?</li>
-<li>What was the response to your public statement?</li>
-<li>How are you feeling about it today?</li>
-<li>Will you consider maintaining large open source projects in future?</li>
-<li>How has maintaining a large open source project impacted your usage of other large projects?</li>
-<li>What advice do you have to reduce the likelihood of other project maintainers reaching the same point of burnout?</li>
-<li>What things can contributors or users of open source do to help maintainers?</li>
-</ul>
-
-
-<h2>Panelists:</h2>
-
-<ul>
-<li>Amanda Wagener</li>
-<li>Henry Maddocks</li>
-<li>James Harton</li>
-<li>Philip Arndt</li>
 <li>Tim Carey-Smith</li>
 </ul>
 

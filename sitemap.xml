@@ -6,31 +6,37 @@
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/10/04/show-1-intro-to-do/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/10/18/show-2-a-globally-distributed-team/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/11/16/show-4-ruby-2-dot-1/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2013/12/16/show-6-teaching-ruby/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:36:48+13:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/
+        </loc>
+        <lastmod>2014-01-28T19:37:32+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/about/</loc>
@@ -38,7 +44,7 @@
     </url>
     <url>
         <loc>http://dopodcast.org/blog/archives/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:37:32+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/cast/</loc>
@@ -46,7 +52,7 @@
     </url>
     <url>
         <loc>http://dopodcast.org/</loc>
-        <lastmod>2014-01-10T20:08:55+13:00</lastmod>
+        <lastmod>2014-01-28T19:37:32+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/robots.txt</loc>
