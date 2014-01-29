@@ -24,11 +24,17 @@ Ryan Bigg       | [radar](https://github.com/radar)           | [@ryanbigg](http
 ## Guests
 Name            | Github | Twitter | Episode
 ----            | ------ | ------  | -------
-Andrew Hooker	| [GeekOnCoffee](https://github.com/GeekOnCoffee) | [@GeekOnCoffee](https://twitter.com/GeekOnCoffee) | [2](/blog/2013/10/18/show-2-a-globally-distributed-team/)
-Ryan Bigg       | [radar](https://github.com/radar)               | [@ryanbigg](https://twitter.com/ryanbigg)         | [2](/blog/2013/10/18/show-2-a-globally-distributed-team/)
-Lee Hambley     | [leehambley](https://github.com/leehambley)     | [@leehambley](https://twitter.com/leehambley)     | [3](/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/)
-Nahum Wild      | [terrcin](https://github.com/terrcin)           | [@terrcin](https://twitter.com/terrcin)           | [5](/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/)
-Eoin Kelly      | [eoinkelly](https://github.com/eoinkelly)       | [@eoinkelly](https://twitter.com/eoinkelly)       | [6](/blog/2013/12/16/show-6-teaching-ruby/)
-Joshua Vial     | [joshuavial](https://github.com/joshuavial)     | [@joshuavial](https://twitter.com/joshuavial)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
-Mathew Hartley  | [fourseven](https://github.com/fourseven)       | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
-Jon Rowe        | [JonRowe](https://github.com/JonRowe)           | [@JonRowe](https://twitter.com/JonRowe)           | [7](/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/)
+Andrew Hooker	| [GeekOnCoffee](https://github.com/GeekOnCoffee)   | [@GeekOnCoffee](https://twitter.com/GeekOnCoffee) | [2](/blog/2013/10/18/show-2-a-globally-distributed-team/)
+Ryan Bigg       | [radar](https://github.com/radar)                 | [@ryanbigg](https://twitter.com/ryanbigg)         | [2](/blog/2013/10/18/show-2-a-globally-distributed-team/)
+Lee Hambley     | [leehambley](https://github.com/leehambley)       | [@leehambley](https://twitter.com/leehambley)     | [3](/blog/2013/11/01/show-3-capistrano-with-lee-hanbley/)
+Nahum Wild      | [terrcin](https://github.com/terrcin)             | [@terrcin](https://twitter.com/terrcin)           | [5](/blog/2013/12/04/show-5-ruby-community-with-nahum-wild/)
+Eoin Kelly      | [eoinkelly](https://github.com/eoinkelly)         | [@eoinkelly](https://twitter.com/eoinkelly)       | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Joshua Vial     | [joshuavial](https://github.com/joshuavial)       | [@joshuavial](https://twitter.com/joshuavial)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Mathew Hartley  | [fourseven](https://github.com/fourseven)         | [@four_seven](https://twitter.com/four_seven)     | [6](/blog/2013/12/16/show-6-teaching-ruby/)
+Jon Rowe        | [JonRowe](https://github.com/JonRowe)             | [@JonRowe](https://twitter.com/JonRowe)           | [7](/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/)
+Alex Gibson     | [PrototypeAlex](https://github.com/PrototypeAlex) | [@PrototypeAlex](https://twitter.com/PrototypeAlex) | [8](/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/)
+Ed Finkler      | [funkatron](https://github.com/funkatron)         | [@funkatron](https://twitter.com/funkatron)       | [8](/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/)
+Greg Baugues    | [GregBaugues](https://github.com/GregBaugues)     | [@greggyb](https://twitter.com/greggyb)           | [8](/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/)
+Merrin Macleod  | [mermop](https://github.com/mermop)               | [@merxplat](https://twitter.com/merxplat)         | [8](/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/)
+
+
