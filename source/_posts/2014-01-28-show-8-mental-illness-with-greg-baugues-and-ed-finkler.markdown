@@ -5,7 +5,7 @@ date: 2014-01-28 10:07
 comments: true
 categories: podcast
 enclosure:
-  url: "http://cdn.dopodcast.org/shows/show_8_mental_illess.mp3"
+  url: "http://cdn.dopodcast.org/shows/show_8_mental_illness.mp3"
   type: "audio/mpeg"
   length: 44229217
 ---
