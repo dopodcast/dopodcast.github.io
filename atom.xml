@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-01-29T13:14:27+13:00</updated>
+  <updated>2014-02-10T16:32:44+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 9: DCI with Jim Gay and Craig Ambrose]]></title>
+    <link href="http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose/"/>
+    <updated>2014-02-10T16:19:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose</id>
+    <content type="html"><![CDATA[<p>A great discussion about DCI (Data, Context, Interaction) with Jim Gay, author if <a href="http://clean-ruby.com">Clean Ruby</a> and Craig Ambrose.</p>
+
+<p><a href="http://cdn.dopodcast.org/shows/show_9_dci.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a>, <a href="https://github.com/dopodcast/dopodcast.github.io/issues/14">GitHub issue</a>.</p>
+
+<h2>Topics Covered:</h2>
+
+<ul>
+<li>What is DCI?</li>
+<li>What is the problem it is trying to solve?</li>
+<li>How is it implemented?</li>
+<li>Does it cause Big Design Up Front?</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>Henry Maddocks</li>
+<li>James Harton</li>
+<li>Nahum Wild</li>
+<li>Shevaun Coker</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_9_dci.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 8: Mental Illness with Greg Baugues and Ed Finkler]]></title>

@@ -8,7 +8,52 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Tue, 28 Jan 2014 10:07:00 +1300</pubDate>
+    <pubDate>Mon, 10 Feb 2014 16:19:00 +1300</pubDate>
+    <item>
+      <title>Show 9: DCI with Jim Gay and Craig Ambrose</title>
+      <link>http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose/</link>
+      <description>
+&lt;p&gt;A great discussion about DCI (Data, Context, Interaction) with Jim Gay, author if &lt;a href=&quot;http://clean-ruby.com&quot;&gt;Clean Ruby&lt;/a&gt; and Craig Ambrose.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_9_dci.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;, &lt;a href=&quot;https://github.com/dopodcast/dopodcast.github.io/issues/14&quot;&gt;GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics Covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is DCI?&lt;/li&gt;
+
+&lt;li&gt;What is the problem it is trying to solve?&lt;/li&gt;
+
+&lt;li&gt;How is it implemented?&lt;/li&gt;
+
+&lt;li&gt;Does it cause Big Design Up Front?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Henry Maddocks&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;Nahum Wild&lt;/li&gt;
+
+&lt;li&gt;Shevaun Coker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_9_dci.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://cdn.dopodcast.org/shows/show_9_dci.mp3"
+        length="46634594"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 10 Feb 2014 16:19:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose/</guid>
+      <dc:date>2014-02-10T16:19:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 8: Mental Illness with Greg Baugues and Ed Finkler</title>
       <link>http://dopodcast.org/blog/2014/01/28/show-8-mental-illness-with-greg-baugues-and-ed-finkler/</link>
@@ -465,7 +510,7 @@
       <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</guid>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2014-01-28T10:07:00+13:00</dc:date>
+    <dc:date>2014-02-10T16:19:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>
