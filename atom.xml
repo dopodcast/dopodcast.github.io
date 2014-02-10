@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-02-10T16:32:44+13:00</updated>
+  <updated>2014-02-11T11:42:21+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose/"/>
     <updated>2014-02-10T16:19:00+13:00</updated>
     <id>http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose</id>
-    <content type="html"><![CDATA[<p>A great discussion about DCI (Data, Context, Interaction) with Jim Gay, author if <a href="http://clean-ruby.com">Clean Ruby</a> and Craig Ambrose.</p>
+    <content type="html"><![CDATA[<p>A great discussion about DCI (Data, Context, Interaction) with Jim Gay, author of <a href="http://clean-ruby.com">Clean Ruby</a> and Craig Ambrose.</p>
 
 <p><a href="http://cdn.dopodcast.org/shows/show_9_dci.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a>, <a href="https://github.com/dopodcast/dopodcast.github.io/issues/14">GitHub issue</a>.</p>
 
