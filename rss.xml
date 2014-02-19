@@ -8,7 +8,66 @@
     <title>do</title>
     <link>http://dopodcast.org</link>
     <description>do is a podcast about Ruby, Rubyists and their culture.  We hope to grow to be a regular (at this stage, two-weekly) show, with a rotating panel of up to 10 people.</description>
-    <pubDate>Mon, 10 Feb 2014 16:19:00 +1300</pubDate>
+    <pubDate>Wed, 19 Feb 2014 15:46:00 +1300</pubDate>
+    <item>
+      <title>Show 10: REST APIs with Nick Sutterer and Steve Klabnik</title>
+      <link>http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik/</link>
+      <description>
+&lt;p&gt;An engrossing discussion with Nick Sutterer about the nature of REST and Hypermedia APIs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3&quot;&gt;MP3 Download&lt;/a&gt;, &lt;a href=&quot;http://dopodcast.org/rss.xml&quot;&gt;RSS Subscribe&lt;/a&gt;, &lt;a href=&quot;https://github.com/dopodcast/dopodcast.github.io/issues/34&quot;&gt;GitHub issues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;topics_covered&quot;&gt;Topics Covered:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is REST?&lt;/li&gt;
+
+&lt;li&gt;What is a RESTful API?&lt;/li&gt;
+
+&lt;li&gt;What is the rails-api project?&lt;/li&gt;
+
+&lt;li&gt;json-api, Collection JSON, JSON-HAL, oh my!&lt;/li&gt;
+
+&lt;li&gt;Tooling for API creation.&lt;/li&gt;
+
+&lt;li&gt;Serializers vs Representers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;panelists&quot;&gt;Panelists:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Henry Maddocks&lt;/li&gt;
+
+&lt;li&gt;James Harton&lt;/li&gt;
+
+&lt;li&gt;James Martelletti&lt;/li&gt;
+
+&lt;li&gt;Steven Ringo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pksunkara/alpaca&quot;&gt;Alpaca&lt;/a&gt; - Given a web API, Generate client libraries in node, php, python, ruby&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://guzzle.readthedocs.org/en/latest/&quot;&gt;Guzzle&lt;/a&gt; - PHP HTTP client &amp;amp; framework for building RESTful web service clients.&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;https://github.com/rest-client/rest-client&quot;&gt;rest-client&lt;/a&gt; - Rubygem for generating REST clients.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;<p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3" preload="none" />
+</center>
+<p/>&lt;/p&gt;
+</description>
+      <enclosure url="http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3"
+        length="35775883"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 19 Feb 2014 15:46:00 +1300</pubDate>
+      <guid>http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik/</guid>
+      <dc:date>2014-02-19T15:46:00+13:00</dc:date>
+    </item>
     <item>
       <title>Show 9: DCI with Jim Gay and Craig Ambrose</title>
       <link>http://dopodcast.org/blog/2014/02/10/show-9-dci-with-jim-gay-and-craig-ambrose/</link>
@@ -510,7 +569,7 @@
       <guid>http://dopodcast.org/blog/2013/09/28/do-a-podcast-about-ruby-and-rubyists/</guid>
       <dc:date>2013-09-28T15:28:00+12:00</dc:date>
     </item>
-    <dc:date>2014-02-10T16:19:00+13:00</dc:date>
+    <dc:date>2014-02-19T15:46:00+13:00</dc:date>
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:image href="http://dopodcast.org/images/ruby-latte-itunes.jpg"/>

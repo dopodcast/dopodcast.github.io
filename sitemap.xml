@@ -30,7 +30,7 @@
     </url>
     <url>
         <loc>http://dopodcast.org/blog/2014/01/10/show-7-rspec-3-with-jon-rowe/</loc>
-        <lastmod>2014-01-13T15:06:03+13:00</lastmod>
+        <lastmod>2014-02-19T15:57:57+13:00</lastmod>
     </url>
     <url>
         <loc>
@@ -43,20 +43,26 @@
         <lastmod>2014-02-11T11:42:15+13:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik/
+        </loc>
+        <lastmod>2014-02-19T15:58:44+13:00</lastmod>
+    </url>
+    <url>
         <loc>http://dopodcast.org/about/</loc>
         <lastmod>2013-10-22T10:08:32+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/blog/archives/</loc>
-        <lastmod>2014-02-11T11:42:15+13:00</lastmod>
+        <lastmod>2014-02-19T15:58:44+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/cast/</loc>
-        <lastmod>2014-02-10T16:26:49+13:00</lastmod>
+        <lastmod>2014-02-19T16:07:47+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/</loc>
-        <lastmod>2014-02-11T11:42:15+13:00</lastmod>
+        <lastmod>2014-02-19T15:58:44+13:00</lastmod>
     </url>
     <url>
         <loc>http://dopodcast.org/robots.txt</loc>

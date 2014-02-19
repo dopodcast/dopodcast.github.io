@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-02-11T11:42:21+13:00</updated>
+  <updated>2014-02-19T16:10:26+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Show 10: REST APIs with Nick Sutterer and Steve Klabnik]]></title>
+    <link href="http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik/"/>
+    <updated>2014-02-19T15:46:00+13:00</updated>
+    <id>http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik</id>
+    <content type="html"><![CDATA[<p>An engrossing discussion with Nick Sutterer about the nature of REST and Hypermedia APIs.</p>
+
+<p><a href="http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a>, <a href="https://github.com/dopodcast/dopodcast.github.io/issues/34">GitHub issues</a>.</p>
+
+<h2>Topics Covered:</h2>
+
+<ul>
+<li>What is REST?</li>
+<li>What is a RESTful API?</li>
+<li>What is the rails-api project?</li>
+<li>json-api, Collection JSON, JSON-HAL, oh my!</li>
+<li>Tooling for API creation.</li>
+<li>Serializers vs Representers.</li>
+</ul>
+
+
+<h2>Panelists:</h2>
+
+<ul>
+<li>Henry Maddocks</li>
+<li>James Harton</li>
+<li>James Martelletti</li>
+<li>Steven Ringo</li>
+</ul>
+
+
+<h2>Resources:</h2>
+
+<ul>
+<li><a href="https://github.com/pksunkara/alpaca">Alpaca</a> &ndash; Given a web API, Generate client libraries in node, php, python, ruby</li>
+<li><a href="https://guzzle.readthedocs.org/en/latest/">Guzzle</a> &ndash; PHP HTTP client &amp; framework for building RESTful web service clients.</li>
+<li><a href="https://github.com/rest-client/rest-client">rest-client</a> &ndash; Rubygem for generating REST clients.</li>
+</ul>
+
+
+<p><p/>
+<center>
+<audio src="http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3" preload="none" />
+</center>
+<p/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Show 9: DCI with Jim Gay and Craig Ambrose]]></title>
