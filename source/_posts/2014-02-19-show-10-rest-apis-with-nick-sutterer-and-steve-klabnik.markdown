@@ -9,7 +9,7 @@ enclosure:
   type: "audio/mpeg"
   length: 35775883
 ---
-An engrossing discussion with Nick Sutterer about the nature of REST and Hypermedia APIs.
+An engrossing discussion with Nick Sutterer and Steve Klabnik about the nature of REST and Hypermedia APIs.
 
 [MP3 Download](http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3), [RSS Subscribe](http://dopodcast.org/rss.xml), [GitHub issues](https://github.com/dopodcast/dopodcast.github.io/issues/34).
 
