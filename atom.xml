@@ -4,7 +4,7 @@
   <title><![CDATA[do]]></title>
   <link href="http://dopodcast.org/atom.xml" rel="self"/>
   <link href="http://dopodcast.org/"/>
-  <updated>2014-02-19T16:10:26+13:00</updated>
+  <updated>2014-02-19T16:14:00+13:00</updated>
   <id>http://dopodcast.org/</id>
   <author>
     <name><![CDATA[James Harton]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik/"/>
     <updated>2014-02-19T15:46:00+13:00</updated>
     <id>http://dopodcast.org/blog/2014/02/19/show-10-rest-apis-with-nick-sutterer-and-steve-klabnik</id>
-    <content type="html"><![CDATA[<p>An engrossing discussion with Nick Sutterer about the nature of REST and Hypermedia APIs.</p>
+    <content type="html"><![CDATA[<p>An engrossing discussion with Nick Sutterer and Steve Klabnik about the nature of REST and Hypermedia APIs.</p>
 
 <p><a href="http://cdn.dopodcast.org/shows/show_10_rest_apis.mp3">MP3 Download</a>, <a href="http://dopodcast.org/rss.xml">RSS Subscribe</a>, <a href="https://github.com/dopodcast/dopodcast.github.io/issues/34">GitHub issues</a>.</p>
 
